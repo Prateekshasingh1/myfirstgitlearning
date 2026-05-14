@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(node --version; python --version 2>$null; python3 --version 2>$null)",
+      "PowerShell(Start-Process \"C:\\\\Users\\\\prate\\\\OneDrive\\\\Desktop\\\\git_test\\\\index.html\")",
+      "PowerShell(New-Item *)"
+    ]
+  }
+}
